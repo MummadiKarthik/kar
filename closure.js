@@ -1,6 +1,7 @@
 function kar(){
-  let count=0;
   return function(){
+      let count=0;
+
     count++;
     console.log(count);
   }
