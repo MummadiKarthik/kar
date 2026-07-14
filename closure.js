@@ -9,5 +9,4 @@ let s=kar()
 s()
 s()
 console.log("hello mummadi Karthik")
-s()
-s();
+
