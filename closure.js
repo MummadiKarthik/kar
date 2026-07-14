@@ -8,4 +8,4 @@ function kar(){
 let s=kar()
 s()
 s()
-s()
+console.log("hello mummadi Karthik")
