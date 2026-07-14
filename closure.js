@@ -4,6 +4,7 @@ function kar(){
 
     count++;
     console.log(count);
+    console.log(count);
   }
 }
 let s=kar()
